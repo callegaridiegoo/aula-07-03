@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #88AB8E;
+    padding: 5%;
+    font-family: 'Trebuchet MS';
+}
+
+#corpo{
+    background-color: #776B5D;
+    border: 1px solid #F3EEEA;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    margin: auto;
+}
+
+header{
+    background-color: #F4DFC8;
+    padding: 2%;
+    border-bottom: 1px solid #000000;
+}
+
+header h1{
+    text-align: center;
+    text-shadow: 1px 1px 2px #000000;
+    text-transform: uppercase;
+}
+
+h2{
+    text-align: center;
+    text-shadow: 1px 1px 2px #000000;
+    text-transform: uppercase;
+    background-color: #EBE3D5;
+    display: inline;
+
+}
+
+.ryzen{
+    width: 120px;
+    height: 80px;
+}
+
+.nvidia{
+    width: 100px;
+    height: 70px;
+}
+
+.bola{
+    width: 60px;
+    height: 50px;
+}
+
+.calca{
+    width: 80px;
+    height: 80px;
+}
+
+.creatina{
+    width: 80px;
+    height: 80px;
+}
+
+.dragao{
+    width: 80px;
+    height: 80px;
+}
+
+.galao{
+    width: 80px;
+    height: 100px;
+}
+
+.mouserk{
+    width: 80px;
+    height: 70px;
+}
+
+.ous{
+    width: 80px;
+    height: 90px;
+}
+
+.placamae{
+    width: 80px;
+    height: 80px;
+}
+
+.sufgang{
+    width: 80px;
+    height: 80px;
+}
+
+.teclado{
+    width: 90px;
+    height: 60px;
+}
+
+.whey{
+    width: 80px;
+    height: 80px;
+}
+
+img:hover{
+    transform: scale(2);
+}
+
+main{
+    padding: 2%;
+    text-align: center;
+}
+
+footer{
+    background-color: #F4DFC8;
+    text-align: center;
+    padding: 2%;
+    border-top: 1px solid #000000;
+}
+
+table{
+    background-color: #F4EAE0;
+    border-collapse: collapse;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    width: 100%;
+    margin: 2% 0 2% 0;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    cursor: default;
+}
+
+table theadtr{
+    background-color: #F4EAE0;
+    color: #FAF6F0;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 2%;
+}
+
+table tbody td, table thead th{
+    padding: 10px;
+}
+
+table tbody td{
+    border-bottom: 1px solid #ddd;
+}
+
+table tbody :hover{
+    background-color: #B4B4B8;
+    cursor: crosshair;
+}
+
+.zebra{
+    background-color: #FAF6F0 ;
+}
+
+.teste{
+    background-color: #F4DFC8;
+}
